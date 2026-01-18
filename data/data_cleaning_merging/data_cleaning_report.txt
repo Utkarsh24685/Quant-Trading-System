@@ -1,0 +1,22 @@
+
+DATA CLEANING REPORT
+--------------------
+Frequency: Daily
+Period: 2025-01-14 to 2026-01-14
+
+Spot Data:
+- Missing values removed
+- Outliers removed using IQR
+
+Futures Data:
+- Missing values removed
+- Near-month rollover already applied
+- Outliers removed using IQR
+
+Options Data:
+- ATM strike calculated dynamically
+- Only ATM ±2 strikes retained
+- Rows without spot alignment removed
+
+Timestamp Alignment:
+- All datasets aligned on daily 'date'
