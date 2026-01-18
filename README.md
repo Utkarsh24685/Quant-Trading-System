@@ -1,10 +1,3 @@
-Perfect — below is a **clean, concise README.md** that **strictly follows the required sections** you shared.
-It is human-written, non-generic, and aligned with **exactly what you built** (no extra fluff).
-
-You can **directly replace your README.md with this**.
-
----
-
 # Quant Trading System
 
 ## Project Overview
@@ -109,13 +102,6 @@ Quant-Trading-System/
 * ML-filtered strategies reduced noise and improved risk-adjusted performance compared to the baseline.
 * Outlier analysis showed that high-performing trades are strongly linked to specific regimes and volatility conditions.
 * The project demonstrates how rule-based strategies and machine learning can be combined in a structured quantitative workflow.
-
----
-
-## Disclaimer
-
-This project is for **academic and educational purposes only**.
-It does not constitute financial advice and should not be used for live trading.
 
 ---
 
