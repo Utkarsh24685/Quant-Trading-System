@@ -119,11 +119,3 @@ It does not constitute financial advice and should not be used for live trading.
 
 ---
 
-If you want, next I can:
-
-* Make a **shorter README** for recruiters
-* Review this README for **grading rubrics**
-* Help you write a **project explanation for viva/interviews**
-* Align README language with **quant job descriptions**
-
-Just tell me.
